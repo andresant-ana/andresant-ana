@@ -10,7 +10,7 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java][https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white]
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -52,13 +52,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresant-ana&theme=dracula&show_icons=true" />
   <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresant-ana/)]([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/))
+[![Linkedin](https://img.shields.io/badge/-andresant-ana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresant-ana/)]([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/))
 [![Icloud Badge](https://img.shields.io/badge/-astboim@icloud.com-006bed?style=flat-square&logo=Icloud&logoColor=white&link=mailto:astboim@icloud.com)](mailto:astboim@icloud.com)
 [![GitHub](https://img.shields.io/github/followers/andresant-ana?label=follow&style=social)](https://github.com/andresant-ana)
