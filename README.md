@@ -72,4 +72,4 @@
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresant-ana/)
-[![Icloud Badge](https://img.shields.io/badge/E-mail-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:astboim@icloud.com)
+[![Icloud Badge](https://img.shields.io/badge/Email-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:astboim@icloud.com)
