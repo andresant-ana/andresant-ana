@@ -42,7 +42,7 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-** OS utilizadas
+**OS utilizadas**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
@@ -50,7 +50,11 @@
 
 <a href="https://github.com/andresant-ana" title="Perfil do André">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresant-ana&theme=dracula&show_icons=true" />
-  [![andresant-ana](https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
 </a>
 
 ## Onde me encontrar
