@@ -59,6 +59,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-andresant-ana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresant-ana/)]([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/))
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresant-ana/)]([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/))
 [![Icloud Badge](https://img.shields.io/badge/-astboim@icloud.com-006bed?style=flat-square&logo=Icloud&logoColor=white&link=mailto:astboim@icloud.com)](mailto:astboim@icloud.com)
 [![GitHub](https://img.shields.io/github/followers/andresant-ana?label=follow&style=social)](https://github.com/andresant-ana)
