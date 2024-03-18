@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=andresant-ana&color=006bed)
 
 ## Sobre mim
 
@@ -55,6 +55,8 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ---
+
+**GitHub Analytics**
 
 <br/>
 
