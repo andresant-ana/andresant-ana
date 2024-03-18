@@ -50,11 +50,11 @@
 
 <a href="https://github.com/andresant-ana" title="Perfil do André">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresant-ana&theme=dracula&show_icons=true" />
-  
+  [![andresant-ana](https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/))
-[![Gmail Badge](https://img.shields.io/badge/-astboim@icloud.com-006bed?style=flat-square&logo=Icloud&logoColor=white&link=mailto:astboim@icloud.com)](mailto:astboim@icloud.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/andresant-ana)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresant-ana/)]([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/))
+[![Icloud Badge](https://img.shields.io/badge/-astboim@icloud.com-006bed?style=flat-square&logo=Icloud&logoColor=white&link=mailto:astboim@icloud.com)](mailto:astboim@icloud.com)
+[![GitHub](https://img.shields.io/github/followers/andresant-ana?label=follow&style=social)](https://github.com/andresant-ana)
