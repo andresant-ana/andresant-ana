@@ -6,6 +6,7 @@
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na FIAP.
 - 🌱 Aprendendo mais sobre Java, Spring, TDD, C#, .NET, Javascript, React, React Native, Python, Machine Learning, PL/SQL, Oracle SQL, Devops, Cloud Computing.
 
+
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -23,12 +24,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
+---
+
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Microsoft Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
 
 **Ferramentas e IDEs**
 
@@ -42,10 +47,14 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
+---
+
 **OS utilizadas**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+---
 
 <br/>
 
@@ -57,6 +66,8 @@
         alt="Github Stats"
       />
 </a>
+
+---
 
 ## Onde me encontrar
 
