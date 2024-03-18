@@ -6,3 +6,7 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=andresant-ana&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![andresant-ana](https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresant-ana/)
+![image](BadgeURLAqui)
+![image](BadgeURLAqui)
