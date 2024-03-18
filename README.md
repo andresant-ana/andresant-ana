@@ -40,16 +40,18 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 
 ### OS utilizadas
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 
 
 ## GitHub Analytics
@@ -69,6 +71,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](([https://www.linkedin.com/in/andresant-ana/](https://www.linkedin.com/in/andresant-ana/)))
-[![Icloud Badge](https://img.shields.io/badge/-astboim@icloud.com-006bed?style=flat-square&logo=Icloud&logoColor=white&link=mailto:astboim@icloud.com)](mailto:astboim@icloud.com)
-[![GitHub](https://img.shields.io/github/followers/andresant-ana?label=follow&style=social)](https://github.com/andresant-ana)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresant-ana/)
+[![Icloud Badge](https://img.shields.io/badge/E-mail-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:astboim@icloud.com)
