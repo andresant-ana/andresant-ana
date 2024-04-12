@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=andresant-ana&color=006bed)
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na FIAP.
-- 🌱 Aprendendo mais sobre Java, Spring, TDD, C#, .NET, Javascript, React, React Native, Python, Machine Learning, PL/SQL, Oracle SQL, Devops, Cloud Computing.
-
-
-## Minhas Skills
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Systems Analysis and Development at FIAP.
+- 🌱 Learning more about Java, Spring, TDD, C#, .NET, Javascript, React, React Native, Python, Machine Learning, PL/SQL, Oracle SQL, Devops, Cloud Computing.
 
 
-### Aplicações e dados
+## My Skills
+
+
+### Applications and Data
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -34,7 +34,7 @@
 ![Microsoft Azure Devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
-### Ferramentas e IDEs
+### Tools and IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -48,7 +48,7 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 
-### OS utilizadas
+### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
@@ -69,7 +69,7 @@
 
 ---
 
-## Onde me encontrar
+## Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresant-ana/)
 [![Icloud Badge](https://img.shields.io/badge/Email-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:astboim@icloud.com)
