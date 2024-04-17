@@ -58,13 +58,8 @@
 
 <br/>
 
-<a href="https://github.com/andresant-ana" title="Perfil do André">
+<a href="https://github.com/andresant-ana" title="Andre's Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresant-ana&theme=dracula&show_icons=true" />
-  <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
 </a>
 
 ---
