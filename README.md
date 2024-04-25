@@ -55,7 +55,6 @@
       />
 </a>
 
----
 
 ## Where to find me
 
