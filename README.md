@@ -2,10 +2,10 @@
 
 ## About Me
 
-👨‍💻 Passionate about Cloud Computing, DevOps, Software Development and Machine Learning.
-🎓 Studying Systems Analysis and Development at FIAP.
-🚀 Currently focused on developing projects with Spring Boot, React Native, Python and Cloud services like Microsoft Azure and AWS.
-🌱 Always learning: diving deeper into Java, Python, Machine Learning, DevOps practices, and cloud-native technologies.
+- 👨‍💻 Passionate about Cloud Computing, DevOps, Software Development and Machine Learning.
+- 🎓 Studying Systems Analysis and Development at FIAP.
+- 🚀 Currently focused on developing projects with Spring Boot, React Native, Python and Cloud services like Microsoft Azure and AWS.
+- 🌱 Always learning: diving deeper into Java, Python, Machine Learning, DevOps practices, and cloud-native technologies.
 
 
 ## My Skills
