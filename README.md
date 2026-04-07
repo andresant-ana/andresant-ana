@@ -27,18 +27,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## GitHub Analytics
-
-<br/>
-
-<a href="https://github.com/andresant-ana" title="Andre's Profile">
-  <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresant-ana&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-</a>
-
 ## Contact & Networking
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresant-ana/)
-[![Icloud Badge](https://img.shields.io/badge/Email-3693F3.svg?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:astboim@icloud.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astboim@gmail.com)
